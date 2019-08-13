@@ -1,8 +1,8 @@
 # Base project for using Laravel mix 
 
-[Người thực hiện](#trainee)
+Người thực hiện : [Hồng](https://github.com/honggamxd)
 
-[Live](link-github-page)
+[Live](https://honggamxd.github.io/mix_demo/)
 
 ## Goal
 
@@ -24,6 +24,6 @@ browser sync.
 
 ## Trainee
 
-- Tên : ...
-- Ngày thực hiện : ...
-- Link online : ...
+- Tên : Hồng
+- Ngày thực hiện : 13/8
+- Link online : https://honggamxd.github.io/mix_demo/
