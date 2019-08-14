@@ -2,7 +2,7 @@
 
 Người thực hiện : [Hồng](https://github.com/honggamxd)
 
-[Live](https://honggamxd.github.io/mix_demo/)
+[Live](https://honggamxd.github.io/mix_demo/public/)
 
 ## Goal
 
@@ -26,4 +26,4 @@ browser sync.
 
 - Tên : Hồng
 - Ngày thực hiện : 13/8
-- Link online : https://honggamxd.github.io/mix_demo/
+- Link online : https://honggamxd.github.io/mix_demo/public/
